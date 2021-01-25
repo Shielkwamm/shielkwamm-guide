@@ -1,0 +1,8 @@
+* [admin_Me](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Badmin_Me%5D)
+* [agile_JP](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Bagile_JP%5D)
+* [appropriate_HI](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Bappropriate_HI%5D)
+* [sh_SH](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Bch_CH%5D)
+* [done_WK](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Bdone_WK%5D)
+* [female_FM](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Bfemale_FM%5D)
+* [ra_US](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5Bra_US%5D)
+* [~.~_MX](https://github.com/Shielkwamm/one_Z-rk/wiki/i18n%5B~o~_MX%5D)
