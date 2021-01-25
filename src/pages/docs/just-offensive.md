@@ -1,3 +1,5 @@
+⚔:-Be-offensive,-but-don't-be-too-offensive-⚔
+
 ```
 ✡[+]⚔: We want to see your offensive capabilities, a lot of us are defense contractors as you know, so take us through a war game, and keep your promises.  ⚔: Be offensive, but don't be too offensive ⚔
 Neobii: /_[+]☴[⚔]+, This is a mission of prosperity, but I will oblige,

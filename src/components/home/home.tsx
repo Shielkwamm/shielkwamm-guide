@@ -1,24 +1,10 @@
 import "~/types/mdx.d.ts"; // TODO: load this automatically
-import Readme from "../../../README.md";
+import IndexMd from "./INDEX.md";
 import { Typography } from "@material-ui/core";
 
 export const Home = () => (
   <div>
-    <div className="welcome-message">
-      <Typography>
-        Hi there! You are running Vulcan Next! You are doing great so far.
-      </Typography>
-      <Typography>
-        Below, find Vulcan Next Readme loaded from a markdown file using{" "}
-        <a href="https://mdxjs.com/">MDXJS</a>.
-      </Typography>
-      <Typography>
-        You can also read the rest of{" "}
-        <a href="/docs">Vulcan documentation here.</a>
-      </Typography>
-      <Typography>Have fun!</Typography>
-    </div>
-    <Readme />
+    <IndexMd />
     <style jsx>
       {`
         .welcome-message {
