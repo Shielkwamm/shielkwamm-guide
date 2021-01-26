@@ -17,6 +17,9 @@ export function reportWebVitals(metric) {
 import { ApolloProvider } from "@apollo/client";
 import { useApollo } from "@vulcanjs/next-apollo";
 
+import { useEffect } from 'react';
+import { initGA, logPageView } from '../utils/analytics';
+
 // import environment from '@vulcanjs/multi-env-demo';
 // console.log('imported environment', environment); // should display "server"/"client" depending on the environment, this is just a test
 
@@ -25,6 +28,10 @@ function VNApp({ Component, pageProps }: AppProps) {
   const apolloClient = useApollo(pageProps.initialApolloState, {
     graphqlUri: "https://one-zork.herokuapp.com/graphql",
   }); // you can also easily setup ApolloProvider on a per-page basis
+  useEffect(() => {
+    initGA()
+    logPageView()
+  });
   return (
     <>
       <Head>
@@ -39,7 +46,7 @@ function VNApp({ Component, pageProps }: AppProps) {
         <link rel="manifest" href="/favicon/site.webmanifest"/>
         <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5"/>
         <meta name="msapplication-TileColor" content="#da532c"/>
-        <meta name="theme-color" content="#ffffff"></meta>
+        <meta name="theme-color" content="#ffffff"/>
       </Head>
       <MuiThemeProvider>
         <SCThemeProvider>

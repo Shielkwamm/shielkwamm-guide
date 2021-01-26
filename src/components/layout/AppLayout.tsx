@@ -6,19 +6,12 @@
  */
 import { typeScale } from "~/lib/style/typography";
 import Footer from "./Footer";
-import { useEffect } from 'react';
-import { initGA, logPageView } from '../../utils/analytics';
 
 interface AppLayoutProps {
   children: React.ReactNode;
 }
 
-const AppLayout = ({ children }: AppLayoutProps) => {
-  useEffect(() => {
-    initGA()
-    logPageView()
-  });
-  return (
+const AppLayout = ({ children }: AppLayoutProps) => (
   <div className="global">
     <main>{children}</main>
     <Footer />
@@ -87,7 +80,8 @@ const AppLayout = ({ children }: AppLayoutProps) => {
         }
       }
     `}</style>
-  </div>)
-};
+  </div>
+)
+
 
 export default AppLayout;
