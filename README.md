@@ -1,3 +1,3 @@
-# Shielkwamm Guide
+# ⧊ Shielkwamm Guide
 
-☴
+[=== ⧊Shielkwamm ===](https://guide.shielkwamm.com)

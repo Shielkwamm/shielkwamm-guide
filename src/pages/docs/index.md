@@ -6,6 +6,9 @@
 > *Creativity is contagious and rewarded.*
 ## [_top_sh_](https://github.com/Shielkwamm/one_Z-rk/wiki/====-Shielkw%C3%A1m%E1%B8%BF-====)
 
-## [spelling bee](https://github.com/Shielkwamm/one_Z-rk/wiki/Spell-Out)
-> △2
-> *In order to △, you must know how to speak △.*
+[△](./proper/INDEX)
+[laws](./laws/INDEX)
+[staff](./staff/INDEX)
+[i18n](./i18n/INDEX)
+[actionable](./actionable/INDEX)
+[△△](./delta)
