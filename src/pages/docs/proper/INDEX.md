@@ -1,16 +1,17 @@
 # ==== Shielkwámḿ ==== Proper
 
+[Profess](/docs/proper/profess)
 
-[Intro](%231-%E2%96%B3Shielkwamm%E2%96%B3)
+[Honorifics](/docs/proper/honorifics)
 
-[Information](%232-%E2%96%B3Sh%C3%AFelkwamm%E2%96%B3)
+[Information](/docs/proper/information)
 
-[Reading Time](%233-Reading-Time_%5B-%E2%96%B3%5D)
+[Reading Time](/docs/proper/reading-time)
 
-[The Law](%234-The-law)
+[The Law](/docs/proper/law)
 
-[Decorating your _sh_](decorating)
+[Decorating your _sh_](/docs/proper/decorating)
 
-[money mood](moneyMood)
+[money mood](/docs/proper/money-mood)
 
-[lawlz](moneyOrLaws)
+[lawlz](/docs/proper/money-or-laws)

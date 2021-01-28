@@ -35,6 +35,12 @@ const Header = () => {
               </Link>
             </li>
           )}
+          <li>
+            *△2: If you do not know what a ==== Shielkwámḿ ==== is, you must keep it a secret.*
+            <Link href="/docs/proper/profess">
+              <a>△ Pröfess the △Shìelkwamm△_△</a>
+            </Link>
+          </li>
         </ul>
       </nav>
       <style jsx>{`
