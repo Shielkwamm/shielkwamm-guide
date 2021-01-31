@@ -1,4 +1,4 @@
-# ==== Shielkwámḿ ==== Proper
+# ==== Shíelkwämḿ.⧊ ==== 
 
 [Profess](/docs/proper/profess)
 

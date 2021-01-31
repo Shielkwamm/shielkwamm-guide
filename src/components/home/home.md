@@ -1,4 +1,4 @@
-# ⧊.Shielkwamm
+# ⧊.Shïelkwämm
 
 ### [△\[proper\]](./docs/proper/INDEX)
 
