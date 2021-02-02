@@ -12,4 +12,4 @@
 
 [Specific Modifiers](/docs/acktionable/specific-modifiers)
 
-[Mapping](/docs/actionable/mapping)
+[Mapping](/docs/acktionable/mapping)

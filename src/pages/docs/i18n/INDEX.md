@@ -30,5 +30,6 @@
 
 ### Game Stuff? (Ignore for now)
 
-[i18n game](/docs/i18n/i18n-regex-game)
-[Reaction](/docs/i18n/reaction-game)
+[i18n game](/docs/i18n/game-ideas/i18n-regex-game)
+
+[Reaction](/docs/i18n/game-ideas/reaction-game)
