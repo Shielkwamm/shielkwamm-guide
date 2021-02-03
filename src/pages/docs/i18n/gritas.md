@@ -30,6 +30,6 @@ i18n[~o~_MX]
 
 > (( 🔬 )): `?o☴++?`
 
-> zZz ⊙🔬⊙: *sensai goes back to sleep*
+> zZz ⊙🔬⊙: *sensei goes back to sleep*
 
 > Admin: `🔘 -> ++/ox☱ [🕑△△△△]`

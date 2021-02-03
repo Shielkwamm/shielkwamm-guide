@@ -1,5 +1,5 @@
 ## --- 💻 ---
-🎧 is very similiar to `⻌`, but is more like `+△△`, but is not like `_🦕`. `-💋🔬ḱ --> -⭘ == -△; ++🔬🔬+++🔬`
+🎧 is very similar to `⻌`, but is more like `+△△`, but is not like `_🦕`. `-💋🔬ḱ --> -⭘ == -△; ++🔬🔬+++🔬`
 
 💻 - nerd alert: `💻(-)☴`, `if(☴||💻)&&(💻+(〠||🕑||当) then 💻💻`
 
@@ -10,7 +10,7 @@
 ☕ - Running Lean: Iterate from Plan A to a Plan That Works (Lean Series)
  
 ## --- devOps ---
-🍝 - devOps, too many ideas, not enough infastructure
+🍝 - devOps, too many ideas, not enough infrastructure
 
 🔥 - infrastructure as code/ needs to be automated
 

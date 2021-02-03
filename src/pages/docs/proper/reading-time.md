@@ -19,6 +19,6 @@ I missed my meeting today with 🕑, but `✔💻 [❤]. ☸`.
 
 
 
-Sometimes, Admin, knows didly squat about what it is actually like there, but can pick up on some desirable patterns of behavior for =I=.  Sometimes, it is necessary for the glphys to occupy the same gestalt/image area, and through that conflict, we can learn more about their culture and ideas.  That is where a curat0r comes in, they sense a lot of pinging from other people, and that when we say.  `✔ Wanna Play ~.~ ✔`
+Sometimes, Admin, knows diddly squat about what it is actually like there, but can pick up on some desirable patterns of behavior for =I=.  Sometimes, it is necessary for the glyphs to occupy the same gestalt/image area, and through that conflict, we can learn more about their culture and ideas.  That is where a curat0r comes in, they sense a lot of pinging from other people, and that when we say.  `✔ Wanna Play ~.~ ✔`
 
 Sometimes, you need to `✔ ++ △`

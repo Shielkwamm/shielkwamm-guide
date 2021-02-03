@@ -7,7 +7,7 @@ Below are some suggested laws for trash palace, we will think up a good system t
 
 Please email me any ideas for *monetary funnels* at iwilldevelop@AAck7ielii.th.
 ==== AAck7ieliithh ====
-It’s `nudesswim@gmail.com`.  Thanks for all your hard work.
+It’s [ redacted ].  Thanks for all your hard work.
 I’m just writing down some cool ideas I’d like to implement in a good place.  I should limit myself to how much items I have so we can streamline the focus… there is so much I want to tell people about the good place.  Maybe I should put 112 after Thomas.
 
 Think about these things and how islamic law might rate them: https://en.wikipedia.org/wiki/Hadith_terminology

@@ -3,7 +3,7 @@
 
 当 present
 
-🐭 ever-grimmacing overlords
+🐭 ever-grimacing overlords
  
 ### △△ 了 Japan
 了 present

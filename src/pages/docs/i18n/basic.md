@@ -41,7 +41,7 @@ TGIF
 
 ### Reprimands:
 ```
-m muted, b banned, pb permaband
+m muted, b banned, pb permabanned
 +j jelly
 ```
 

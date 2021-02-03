@@ -14,7 +14,7 @@
 
 🎥++☯ good censor
 
-🎥了 this needs sensoring
+🎥了 this needs censoring
 
 🎥🔥 I want it raw baby
 

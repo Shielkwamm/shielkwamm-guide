@@ -4,6 +4,6 @@
 
 🔘 is agitated when there is too long of pause between song selections
 
-ℝ - excessive positive reenforcement negatively effects realness in some situations
+ℝ - excessive positive reinforcement negatively effects realness in some situations
 
 ℝ - a non negative mood is seen as positive 
