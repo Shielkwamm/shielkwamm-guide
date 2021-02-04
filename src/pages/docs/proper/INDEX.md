@@ -15,3 +15,5 @@
 [money mood](/docs/proper/money-mood)
 
 [lawlz](/docs/proper/money-or-laws)
+
+[▵lost books of Acktueli▵](/docs/proper/lost-books)
