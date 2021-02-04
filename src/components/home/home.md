@@ -1,13 +1,13 @@
 # ⧊.Shïelkwämm
 
-### [△\[proper\]](./docs/proper/INDEX)
+### [△\[proper\]](./docs/proper)
 
-### [laws](./docs/laws/INDEX)
+### [laws](./docs/laws)
 
-### [NaNers](./docs/NaNers/INDEX)
+### [NaNers](./docs/NaNers)
 
-### [i18n](./docs/i18n/INDEX)
+### [i18n](./docs/i18n)
 
-### [acktionable](./docs/acktionable/INDEX)
+### [acktionable](./docs/acktionable)
 
-### [△△](./docs/contribute/CHANGELOG)
+### [△△](./docs/changelog)
