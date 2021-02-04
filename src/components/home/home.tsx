@@ -5,7 +5,7 @@ import { Typography } from "@material-ui/core";
 export const Home = () => (
   <div>
       <link rel="icon" href="/favicon_io/favicon.ico" />
-      <meta name="description" content="Ah the Shielkwamm guide, here ya'll will find all sorts of tid bits about the Shielkwamm percent20!"></meta>
+      <meta name="description" content="Ah, the △Shïelkwãmm△ guide... make yerself at home ya'll.  You'll need this to understand, === Shiẽlkwãmm ===!"></meta>
     <HomeMd />
     <style jsx>
       {`
