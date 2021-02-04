@@ -2,4 +2,4 @@
 
 hmm so far no laws?;
 
-traingle thing
+triangle thing
