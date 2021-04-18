@@ -1,4 +1,8 @@
-# Guide.Shielkwam
+# Guide.Shielkwamm
+
+version 0.0.5
+
+Houses, Layers, Animation.  Will come back.
 
 version 0.0.4
 

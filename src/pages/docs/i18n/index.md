@@ -24,6 +24,8 @@
 
 [romNom_US](/docs/i18n/rom-nom)
 
+[ad_AM](/docs/i18n/ad-am)
+
 ### Misc
 
 [Control Items](/docs/i18n/things/control)
