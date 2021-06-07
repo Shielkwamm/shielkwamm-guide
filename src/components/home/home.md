@@ -1,6 +1,6 @@
 # ⧊.Shïelkwämm
 
-### [△\[proper\]](./docs/proper)
+## [△\[proper\]](./docs/proper)
 
 ### [house](./docs/house)
 
@@ -8,10 +8,12 @@
 
 ### [NaNers](./docs/NaNers)
 
-### [i18n](./docs/i18n)
+-----
 
 ### [acktionable](./docs/acktionable)
 
 ### [animating](./docs/animating)
+
+-----
 
 ### [△△](./docs/changelog)
