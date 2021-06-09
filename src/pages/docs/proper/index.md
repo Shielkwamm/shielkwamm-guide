@@ -2,10 +2,6 @@
 
 [Profess](/docs/proper/profess)
 
-[Honorifics](/docs/proper/honorifics)
-
-[Decorating your _sh_](/docs/proper/decorating)
-
 [Spell Out](/docs/proper/spell-out)
 > △2
 > *In order to △, you must know how to speak △.*

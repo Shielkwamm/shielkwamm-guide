@@ -1,6 +1,6 @@
-# Transaction Guide
+# Interesting Transactions
 
-⚙️Q Philosophy and Understanding Transaction Costs
+⚙️ Philosophy and Understanding Transaction Costs
 
 [get in where you fit in??](https://github.com/orgs/Shielkwamm/teams/vibeguard/discussions/4/comments/2)
 

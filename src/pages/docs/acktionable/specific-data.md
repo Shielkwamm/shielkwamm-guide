@@ -1,4 +1,0 @@
-# Specific Data
-
-🔘.currentSong
-🔘.currentVolume

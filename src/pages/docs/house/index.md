@@ -1,7 +1,5 @@
 # House
 
-[Acktueli](./house/acktueli)
-
 [llololl](./house/llololl)
 
 [eyeballsGalore](./house/eyeballsGalore)

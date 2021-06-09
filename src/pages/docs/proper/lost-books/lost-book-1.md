@@ -6,7 +6,7 @@
 ### Static
 Usually, static could be thought of "one level" past polite if some adventurers continually exceed a polite volume of 2.  If static is being received, best to pause, switch activities.
 
-### Push
+### Flubbing
 Yes, sir.
 
 ### Yelling
@@ -26,6 +26,9 @@ Drain is a special type of `interrupt`, it can still be at a polite volume of 2.
 
 ### Flick??
 (. )<--==
+
+### Slug
+Similar to a drain, but a little bit more pathetic.
 
 --==>
 

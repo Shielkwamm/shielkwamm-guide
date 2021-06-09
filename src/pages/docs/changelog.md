@@ -1,13 +1,16 @@
 # Guide.Shielkwamm
 
-version 0.0.5
+# Chapter 3: building a ship.
+Reorganized and created some specialites.
+
+# Chapter 1.4
 
 Houses, Layers, Animation.  Will come back.
 
-version 0.0.4
+# Chapter 1.3
 
 Added basic acktionable outline
 
-version 0.0.2
+# Chapter 1.1
 
 Transfered and Aggregrated and Aggrivated

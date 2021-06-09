@@ -2,17 +2,15 @@
 
 ## [△\[proper\]](./docs/proper)
 
-### [house](./docs/house)
+### [ship](./docs/ship)
 
-### [laws](./docs/laws)
+### [transaction](./docs/transaction)
 
 ### [NaNers](./docs/NaNers)
 
------
+### [house](./docs/house)
 
-### [acktionable](./docs/acktionable)
-
-### [animating](./docs/animating)
+### [elation](./docs/elation)
 
 -----
 
